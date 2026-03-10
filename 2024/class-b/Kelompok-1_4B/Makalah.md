@@ -66,6 +66,7 @@ Seperti contohnya pendidikan fokus pada penananam kepatuhan, penghafalan kitab s
 Bahwa yang dilakukan berkaitan dengan agama yang dianggap benar jadi diharuskan untuk patuh untuk hal tersebut, lalu harus dijaga baik - baik karena merupakan kemurnian yang harus dijaga yang telah lama ada.Gambaran kepatuhan terhadap tuhan sebagai bentuk keimanan.
 * Perbedaan dua metodologis tersebut
 berdasarkan dua metodologis yang telah disebutkan bahwa perbedaan antara sains dan agama adalah pada kekuatan dan makna. kekuatan yang bersifat objektif dan makna subjektif.
+
 **D. Analisa Mendalam terhadap Konflik**
   
   Konflik antara sains dan agama
