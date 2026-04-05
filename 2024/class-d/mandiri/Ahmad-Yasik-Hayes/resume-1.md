@@ -13,9 +13,9 @@ membangun perdamaian yang berakar kuat dalam kesadaran kolektif masyarakat.
 Pada tataran normatif, hampir seluruh agama besar dunia memuat prinsip-prinsip dasar yang 
 mendukung perdamaian dan keharmonisan sosial. Islam, misalnya, secara eksplisit menempatkan 
 perdamaian (as-salām) sebagai salah satu asas moral tertinggi, sebagaimana tercermin dalam nama-nama 
-Tuhan (Asma’ul Husna) dan dalam perintah untuk berlaku adil serta menjauhi permusuhan (QS. Al
-Mumtahanah: 8). Dalam Kekristenan, pesan sentral Yesus tentang kasih terhadap sesama, bahkan terhadap 
-musuh (Matius 5:44), menjadi dasar spiritual bagi gerakan perdamaian di berbagai belahan dunia. Demikian 
+Tuhan (Asma’ul Husna) dan dalam perintah untuk berlaku adil serta menjauhi permusuhan ```(QS. Al
+Mumtahanah: 8)```. Dalam Kekristenan, pesan sentral Yesus tentang kasih terhadap sesama, bahkan terhadap 
+musuh ```(Matius 5:44)```, menjadi dasar spiritual bagi gerakan perdamaian di berbagai belahan dunia. Demikian 
 pula dalam Buddhisme, ajaran ahimsa (non-kekerasan) dan pencerahan batin menjadi pilar dalam membina 
 hubungan tanpa kekerasan.
 
@@ -27,12 +27,12 @@ juga sebagai agen transformasi sosial yang inklusif dan berorientasi pada kemanu
 Meskipun mengandung nilai-nilai damai, realitas historis menunjukkan bahwa agama kerap 
 dijadikan justifikasi bagi kekerasan, baik dalam bentuk konflik antaragama, sektarianisme intra-agama, 
 maupun ekstremisme ideologis. Fenomena ini tidak disebabkan oleh agama itu sendiri, melainkan oleh 
-pemaknaan sempit dan politisasi agama oleh aktor-aktor yang berkepentingan. Dalam konteks ini, Appleby 
-(2000) mengemukakan bahwa agama memiliki ambivalensi sakral (ambivalence of the sacred): ia dapat 
+pemaknaan sempit dan politisasi agama oleh aktor-aktor yang berkepentingan. Dalam konteks ini, ```Appleby 
+(2000)``` mengemukakan bahwa agama memiliki ambivalensi sakral (ambivalence of the sacred): ia dapat 
 menjadi pemicu konflik ataupun sumber rekonsiliasi, tergantung pada siapa yang menafsirkannya dan 
 bagaimana ia dimobilisasi secara sosial-politik. 
 
-Salah satu karya seminal yang membahas secara eksplisit ambiguitas ini adalah karya Appleby (2000) 
+Salah satu karya seminal yang membahas secara eksplisit ambiguitas ini adalah karya ``` Appleby (2000)``` 
 berjudul The Ambivalence of the Sacred, yang menyatakan bahwa agama memiliki kapasitas ganda: ia dapat 
 menjadi katalisator kekerasan ketika dimobilisasi secara eksklusif dan politis, namun juga mampu 
 bertransformasi menjadi kekuatan penyembuh dan pemersatu ketika dijalankan berdasarkan nilai-nilai 
@@ -45,3 +45,10 @@ Berdasarkan uraian di atas, dapat disimpulkan bahwa agama memiliki peran yang sa
 
 Oleh karena itu, peran agama dalam kehidupan tidak bersifat tunggal, melainkan sangat ditentukan oleh cara manusia memahami dan mengimplementasikannya. Dengan pemahaman yang terbuka, kritis, dan berorientasi pada nilai-nilai kemanusiaan universal, agama berpotensi besar menjadi pilar utama dalam membangun kehidupan yang damai, adil, dan bermakna.
 
+## Daftar Pustaka
+
+  **Appleby, R. S. (2000)**. The ambivalence of the sacred: Religion, violence, and reconciliation. Rowman & Littlefield Publishers.
+
+**Faridah, Rokim, M., & Sutomo. (2025)**. Agama dalam perspektif perdamaian. Sujud: Jurnal Agama, Sosial dan Budaya, 1(3), 481–492. https://doi.org/10.63822/j1a14570
+
+**Putri, Z. A., Rizki, M., Fawaz, A., & Hsb, S. (2026)**. Agama dan sains modern. Fatih: Journal of Contemporary Research, 3(1), 35–46.
