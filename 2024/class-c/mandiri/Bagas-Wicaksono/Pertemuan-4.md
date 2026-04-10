@@ -2,4 +2,4 @@
 *Resume Hasil Presentasi Kelompok 3: Evolusi Hubungan Negara, Swasta, dan Teknologi (1960-Sekarang): Peran Hacking Culture serta Open dan Closed Source*
 
 ## Pendahuluan
-Dalam buku Troublemakers: Silicon Valley's Coming of Age yang ditulis oleh Leslie Berlin berisi tentang 
+Dalam buku Troublemakers: Silicon Valley's Coming of Age yang ditulis oleh Leslie Berlin berisi tentang tujuh tokoh yang berkontribusi pada perkembangan di Silicon Valley dari tahun 1969 hingga 1983. Dimulai ketika transformasi baru saat perang Vietnam terjadi, hingga dunia akhirnya mulai merasakan dampak dari beragam inovasi dari revolusiner tersebut. Buku ini terdiri dari lima bagian utama periode waktu, tapi fokus utama resume ini hanya pada periode Arrival (1969-1971). 
