@@ -15,3 +15,7 @@ Dari yang saya pahami Dalam perspektif ekonomi-politik, closed source bisa dilih
 Kalau kode ditutup, hanya pemilik modal yang bisa akses, ubah, dan ambil keuntungan. Sementara pengguna lain cuma bisa pakai sesuai aturan yang sudah ditentukan. Tidak ada ruang untuk ikut mengembangkan atau menyesuaikan. 
 Dalam hal politik Negara juga ikut menjaga pola ini. Lewat kebijakan seperti paten dan hak kekayaan intelektual, kepemilikan kode jadi makin kuat dilindungi. Secara tidak langsung, ini lebih menguntungkan perusahaan besar yang sudah punya sumber daya. Alasan “melindungi inovasi” sering dipakai untuk membenarkan closed source. Tapi dalam praktiknya, yang paling diuntungkan tetap pihak yang punya modal.
 
+## Kesimpulan 
+perkembangan teknologi sejak 1960-an menunjukkan pergeseran dari dominasi negara ke peran swasta, dimana teknologi awalnya didanai pemerintah lalu berkembang melalui komersialisasi dan venture capital. Di sisi lain, budaya hacking muncul dari komunitas akademik seperti Massachusetts Institute of Technology sebagai bentuk eksplorasi bebas teknologi. Sementara itu, hubungan antara open source dan closed source juga berubah dari kolaboratif menjadi komersial, hingga akhirnya saling beradaptasi dalam perkembangan industri teknologi modern.
+
+
