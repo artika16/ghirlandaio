@@ -34,8 +34,10 @@ dan bertanggung jawab.
 DAFTAR PUSTAKA
 
 
-Smith, Adam. 2005. The Wealth of Nations: The Electronic Classic Series Publication.
-Skousen, Mark. 2007. The Big Three in Economics: M.E. Sharpe.
-Marx, Karl. 2015. Das Kapital: Progress Publishers.
-Keynes, John Maynard. 1920. The Economics Consequences of The Peace: The Macmillan Co.
-Berlin, Leslie. 2017. Troublemakers: Silicon Valley's Coming of Age: Simon and Schuster.
+Mikuláš Čtvrtník. (2023). Archives and records: Privacy, personality rights, and access. Cham: Springer Nature. https://doi.org/10.1007/978-3-031-18667-7
+
+Markus Christen, Gordijn, B., & Loi, M. (Eds.). (2020). The ethics of cybersecurity. Cham: Springer.
+
+Safii, M. (2019). Redefining the five laws of library science in the digital age. Advances in Social Science, Education and Humanities Research, 302.
+
+Triandari, A. P. (2022). Keamanan informasi di perpustakaan digital. Visi Pustaka, 24(3). https://doi.org/10.37014/visipustaka.v24i3.3175
